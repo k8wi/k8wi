@@ -2,7 +2,7 @@
 <h3 >Passionate CSE student with a strong foundation in programming concepts, data structures, and algorithms. Eager to learn about the latest technologies and programming languages, and to use my skills to solve complex software development challenges.</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x4b2N4NGcydXBib2owaDRjM29veWg5MHI1cTdyOWtqN3dvaHlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Sign language to text AI](https://github.com/k8wi/Sign-Language-to-Text)
+- 🔭 I’m currently working on [hospital Finder](https://github.com/k8wi/MedMap)
 
 - 🌱 I’m currently learning **Deep Learning Concepts**
 
