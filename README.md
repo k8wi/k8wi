@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Thushar R</h1>
-<h3 >Passionate CSE student with a strong foundation in programming concepts, data structures, and algorithms. Eager to learn about the latest technologies and programming languages, and to use my skills to solve complex software development challenges.</h3>
+<h3 >A Performance Engineer hobby coding random things.</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x4b2N4NGcydXBib2owaDRjM29veWg5MHI1cTdyOWtqN3dvaHlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [Real Estate Smart Contracts](https://github.com/k8wi/Real-Estate)
