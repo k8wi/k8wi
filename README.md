@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [FreeBee UGC Platform]
 
-- 🌱 I’m currently learning **Blockchain and Solidity**
+- 🌱 I’m currently learning **DevOps Best practices with Backend Development and Architecture**
 
 - 👨‍💻 My Portfolio [https://portfolio-thushar.vercel.app/](https://portfolio-thushar.vercel.app/)
 
