@@ -2,7 +2,7 @@
 <h3 >A Performance Engineer hobby coding random things.</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x4b2N4NGcydXBib2owaDRjM29veWg5MHI1cTdyOWtqN3dvaHlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Real Estate Smart Contracts](https://github.com/k8wi/Real-Estate)
+- 🔭 I’m currently working on [FreeBee UGC Platform]
 
 - 🌱 I’m currently learning **Blockchain and Solidity**
 
