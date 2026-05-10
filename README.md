@@ -12,20 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thushar-r-8a9448244/" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
-</a>
-&nbsp;
-<a href="https://instagram.com/thushar.__" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" width="45" />
-</a>
-&nbsp;
-<a href="mailto:thushar.r02@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,python,aws,gcp,kubernetes" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" width="48" height="48" />
