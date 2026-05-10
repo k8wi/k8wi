@@ -12,7 +12,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+<a href="https://www.linkedin.com/in/thushar-r-8a9448244/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/thushar.__" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="mailto:thushar.r02@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 <h3 align="left">Skills and Tools:</h3>
