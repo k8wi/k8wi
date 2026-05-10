@@ -6,7 +6,7 @@
 [FreeBee UGC Platform]
 </a>
 
-- 🌱 I’m currently learning **DevOps Best practices with Backend Development and Architecture**
+- 🌱 I’m currently learning **DataEnngineering Best practices with Backend Development and Architecture**
 
 - 👨‍💻 My Portfolio [https://portfolio-thushar.vercel.app/](https://portfolio-thushar.vercel.app/)
 
