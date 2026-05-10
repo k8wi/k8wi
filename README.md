@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thushar-r-8a9448244/" target="_blank">
+<a href="https://www.linkedin.com/in/thushar-r-ba2b93218/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:thushar.r02@gmail.com">
